@@ -14,3 +14,6 @@ function RedirectMain(){
     location.href = 'Main.php';
 
 }
+function Login(){
+
+}
